@@ -1,0 +1,25 @@
+# Archivos que no deben subirse al repositorio
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Archivos de respaldo de editores
+*~
+*.bak
+*.swp
+*.swo
+
+# Carpetas de configuración de editores
+.vscode/
+.idea/
+*.sublime-*
+
+# Archivos de log
+*.log
+
+# Carpeta de archivos temporales
+tmp/
+temp/
