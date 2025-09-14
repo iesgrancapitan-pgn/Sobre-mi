@@ -1,6 +1,6 @@
 # Sobre mí
 
-Con esta tarea vas a aprender los formatos básicos de Markdown (títulos, listas, imágenes, enlaces, negrita, cursiva, etc.) modificando un fichero de presentación personal.
+Con esta tarea vas a aprender cómo vamos a hacer las entregas, además de los formatos básicos de Markdown (títulos, listas, imágenes, enlaces, negrita, cursiva, etc.) modificando un fichero de presentación personal.
 
 ## Entrega de tareas
 
@@ -9,29 +9,35 @@ Para la entrega de actividades usaremos:
 - `GithubClassroom`. Herramienta de enseñanza de GitHub que nos permite a los profesores crear y administrar tareas mediante repositorios. Ahí entregaréis vuestros códigos en Python, y en algunos casos entregaréis ficheros en lenguaje
 - `Markdown`. Lenguaje de marcas de fácil lectura y escritura muy utilizado en distintos ámbitos.
 
-Con esta tarea nos aseguraremos que tenéis el entorno de trabajo preparado, tanto en el IES como en casa.
+Con esta tarea nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día, tanto en el IES como en casa.
 
 ## Instrucciones
 
 
 1. Instala el editor `Visual Studio Code`  en tu equipo
 2. Instala la extensión Markdown `All in One` en el editor
-3. Descarga este archivo `README.md` de tu repositorio en GitHub Classroom.Crea el fichero '`README.md`'. Asegúrate de que se guarda con el formato Markdown.
-4. Entrega en esta tarea de GitHub un fichero con el nombre `README.md` donde hables sobre ti.
-
-
-  - Nombre
+3. Crea las carpetas `modulo-pgn\UD1-Introduccion` para organizar tus entregas.
+4. Descarga este archivo `README.md` de tu repositorio en GitHub Classroom en la carpeta `modulo-pgn\UD1-Introduccion\sobremi`.
+5. Con el editor `Visual Studio Code` abre la carpeta `modulo-pgn\UD1-Introduccion\sobremi`. 
+6. Abre ahora el `README.md` y modifícalo. Borra todas estas instrucciones e indica en formato markdown:
+  - Tu Nombre
   - Apellidos
   - Ciudad de origen
   - Hobbies
   - Tus redes sociales, correo electrónico...
-  -  Tu cita favorita
-  -  Una foto tuya
-  -  Un apartado de observaciones donde hables de las expectativas de este módulo.
-2. Descarga el archivo `README.md` de tu repositorio en GitHub Classroom.
-3. 
-4. Modifica el archivo siguiendo el ejemplo y las indicaciones de abajo.
-5. Cuando termines, sube los cambios a tu repositorio.
+  - Tu cita/frase favorita
+  - Una foto tuya
+  - Un apartado de observaciones donde hables de las expectativas de este módulo.
+
+7. Entrega el nuevo `README.md` en el repositorio. Fíjate nada más abrir tu repositorio aparece visualizado el `README.md` como carta de presentación del repositorio, con el formato indicado: títulos, negrita, imágenes... Además, busca los `commits` (entregas o modificaciones) que has hecho al fichero.
+8. Recuerda que la imagen debes subirla al repositorio y referenciarla con ruta relativa `![mifoto](./mifoto.png)` o `![mifoto](mifoto.png)`.
+
+
+
+9. Descarga el archivo `README.md` de tu repositorio en GitHub Classroom.
+10. 
+11. Modifica el archivo siguiendo el ejemplo y las indicaciones de abajo.
+12. Cuando termines, sube los cambios a tu repositorio.
 
 ---
 
