@@ -9,7 +9,7 @@ Para la entrega de actividades usaremos:
 - `GithubClassroom`. Herramienta de enseñanza de GitHub que nos permite a los profesores crear y administrar tareas mediante repositorios. Ahí entregaréis vuestros códigos en Python, y en algunos casos entregaréis ficheros en lenguaje
 - `Markdown`. Lenguaje de marcas de fácil lectura y escritura muy utilizado en distintos ámbitos.
 
-Con esta tarea nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día, tanto en el IES como en casa.
+Nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día, tanto en el IES como en casa.
 
 ## Instrucciones
 
