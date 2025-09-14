@@ -31,13 +31,7 @@ Con esta tarea nos aseguraremos que tenéis el entorno de trabajo preparado para
 
 7. Entrega el nuevo `README.md` en el repositorio. Fíjate nada más abrir tu repositorio aparece visualizado el `README.md` como carta de presentación del repositorio, con el formato indicado: títulos, negrita, imágenes... Además, busca los `commits` (entregas o modificaciones) que has hecho al fichero.
 8. Recuerda que la imagen debes subirla al repositorio y referenciarla con ruta relativa `![mifoto](./mifoto.png)` o `![mifoto](mifoto.png)`.
-
-
-
-9. Descarga el archivo `README.md` de tu repositorio en GitHub Classroom.
-10. 
-11. Modifica el archivo siguiendo el ejemplo y las indicaciones de abajo.
-12. Cuando termines, sube los cambios a tu repositorio.
+9. Repite el proceso desde casa. Modifica cualquier parte del `README.md`. Aparecerá otro commit/entrega.
 
 ---
 
