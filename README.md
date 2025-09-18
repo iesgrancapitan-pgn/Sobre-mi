@@ -35,34 +35,6 @@ Nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día
 
 ---
 
-## Ejemplo de estructura y formatos a practicar
-
-# Presentación personal
-
-## Datos personales
-- **Nombre:** Manoli
-- **Apellidos:** Muskito de Sotomayor
-- **Ciudad de origen:** Córdoba
-- **Correo electrónico:** manoli.muskito@email.com
-- **Redes sociales:**
-  - [Instagram](https://instagram.com/manolimuskito)
-  - [Twitter](https://twitter.com/manolimuskito)
-- **Foto:**
-  ![Foto de Manoli](https://www.example.com/foto-manoli.jpg)
-
-## Hobbies
-- Leer
-- Jugar al fútbol
-- Programar
-- Ver películas
-  - Ciencia ficción
-  - Comedia
-
-## Observaciones
-> *Mis expectativas para este módulo son aprender a programar y conocer nuevas herramientas. Me gustaría trabajar en equipo y mejorar mi creatividad.*
-
----
-
 ## Formatos que debes usar
 - Títulos y subtítulos (`#`, `##`)
 - Listas simples y anidadas (`-`, `  -`)
