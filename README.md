@@ -16,8 +16,8 @@ Nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día
 
 1. Instala el editor `Visual Studio Code`  en tu equipo
 2. Instala la extensión Markdown `All in One` en el editor
-3. Crea las carpetas `modulo-pgn\UD1-Introduccion` para organizar tus entregas.
-4. Descarga este archivo `README.md` de tu repositorio en GitHub Classroom en la carpeta `modulo-pgn\UD1-Introduccion\sobremi`.
+3. Crea las carpetas `modulo-pgn\UD1-Introduccion` para organizar tus entregas. Aquí clonarás cada uno de los repositorios/tareas de forma organizada. Sigue las instrucciones del vídeo [Primeros pasos con Classroom 50 y Git](https://youtu.be/nqHKE0K7J6A?t=118)
+4. Clona el repositorio en la ruta local. Tendrás entonces dos copias: la remota alojada en `https://github.com/iesgrancapitan-pgn` y la local alojada en una carpeta nueva con el nombre del repositorio
 5. Con el editor `Visual Studio Code` abre la carpeta `modulo-pgn\UD1-Introduccion\sobremi`. 
 6. Abre ahora el `README.md` y modifícalo. Borra todas estas instrucciones e indica en formato markdown:
   - Tu Nombre
