@@ -6,7 +6,7 @@ Con esta tarea vas a aprender cómo vamos a hacer las entregas, además de los f
 
 Para la entrega de actividades usaremos:
 - `Moodle`. Plataforma donde se irán abriendo las tareas con una fecha de entrega. En la mayoría de los casos consistirá en un enlace a una tarea de 
-- `GithubClassroom`. Herramienta de enseñanza de GitHub que nos permite a los profesores crear y administrar tareas mediante repositorios. Ahí entregaréis vuestros códigos en Python, y en algunos casos entregaréis ficheros en lenguaje
+- `Classroom50`. Herramienta alternativa de GitHub Classroom que nos permite a los profesores crear y administrar tareas mediante repositorios. Ahí entregaréis vuestros códigos en Python, y en algunos casos entregaréis ficheros en lenguaje
 - `Markdown`. Lenguaje de marcas de fácil lectura y escritura muy utilizado en distintos ámbitos.
 
 Nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día, tanto en el IES como en casa.
@@ -55,6 +55,8 @@ Nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día
 
 
 ## De interés
+- [Primeros pasos con Classroom 50 y Git](https://youtu.be/nqHKE0K7J6A?t=118)
+- [Markdown Live Preview](https://markdownlivepreview.com/)
 - [Introducción a la escritura y la aplicación de formato en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Sintaxis Markdown](https://markdown.es/sintaxis-markdown/)
