@@ -61,3 +61,4 @@ Nos aseguraremos que tenéis el entorno de trabajo preparado para el día a día
 - [Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Sintaxis Markdown](https://markdown.es/sintaxis-markdown/)
 - [Markdown, Curso Práctico para principiantes y desarrolladores (31:32)](https://youtu.be/oxaH9CFpeEE)uando termines, revisa que todos los formatos se vean correctamente en GitHub!
+- [Markdown All in One Keyboard shortcuts](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#keyboard-shortcuts)
